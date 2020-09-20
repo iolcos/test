@@ -1,1 +1,1 @@
-f
+fcd .git
